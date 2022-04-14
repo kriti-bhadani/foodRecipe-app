@@ -1,0 +1,11 @@
+.RecipeTile-img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 3px;
+}
+
+.RecipeTile-content {
+    max-width: 200px;
+    margin: 12px auto;
+}
